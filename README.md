@@ -1,1 +1,1 @@
-# AnimatedEditTexg
+# AnimatedEditText
